@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#030a05"/>
+  <rect x="60" y="60" width="392" height="392" rx="60" fill="#0a1f14"/>
+  <circle cx="256" cy="256" r="120" fill="none" stroke="#22c55e" stroke-width="12"/>
+  <text x="256" y="290" text-anchor="middle" font-family="monospace" font-size="120" font-weight="bold" fill="#4ade80">π</text>
+  <circle cx="256" cy="256" r="165" fill="none" stroke="#0d2318" stroke-width="2"/>
+  <circle cx="91" cy="256" r="10" fill="#22c55e"/>
+  <circle cx="421" cy="256" r="10" fill="#22c55e"/>
+  <circle cx="256" cy="91" r="10" fill="#22c55e"/>
+  <circle cx="256" cy="421" r="10" fill="#22c55e"/>
+</svg>
